@@ -15,6 +15,8 @@ package midtermexam_versiona_extensioncode;
  */
 public class UserProfile 
 {
+    //This class is used to identify which genre our user likes
+    //This way we can have a better understanding of there likes/dislikes
     
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
